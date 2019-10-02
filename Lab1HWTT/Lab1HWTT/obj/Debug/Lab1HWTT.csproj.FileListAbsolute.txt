@@ -1,8 +1,0 @@
-C:\Users\Astonix\source\repos\Lab1HWTT\Lab1HWTT\obj\Debug\Lab1HWTT.Properties.Resources.resources
-C:\Users\Astonix\source\repos\Lab1HWTT\Lab1HWTT\obj\Debug\Lab1HWTT.csproj.GenerateResource.cache
-C:\Users\Astonix\source\repos\Lab1HWTT\Lab1HWTT\bin\Debug\Lab1HWTT.exe.config
-C:\Users\Astonix\source\repos\Lab1HWTT\Lab1HWTT\bin\Debug\Lab1HWTT.exe
-C:\Users\Astonix\source\repos\Lab1HWTT\Lab1HWTT\bin\Debug\Lab1HWTT.pdb
-C:\Users\Astonix\source\repos\Lab1HWTT\Lab1HWTT\obj\Debug\Lab1HWTT.Form1.resources
-C:\Users\Astonix\source\repos\Lab1HWTT\Lab1HWTT\obj\Debug\Lab1HWTT.exe
-C:\Users\Astonix\source\repos\Lab1HWTT\Lab1HWTT\obj\Debug\Lab1HWTT.pdb

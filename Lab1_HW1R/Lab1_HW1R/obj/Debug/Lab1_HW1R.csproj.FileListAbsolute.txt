@@ -1,9 +1,0 @@
-C:\Users\Astonix\source\repos\Lab1_HW1R\Lab1_HW1R\obj\Debug\Lab1_HW1R.csprojAssemblyReference.cache
-C:\Users\Astonix\source\repos\Lab1_HW1R\Lab1_HW1R\obj\Debug\Lab1_HW1R.Form1.resources
-C:\Users\Astonix\source\repos\Lab1_HW1R\Lab1_HW1R\obj\Debug\Lab1_HW1R.Properties.Resources.resources
-C:\Users\Astonix\source\repos\Lab1_HW1R\Lab1_HW1R\obj\Debug\Lab1_HW1R.csproj.GenerateResource.cache
-C:\Users\Astonix\source\repos\Lab1_HW1R\Lab1_HW1R\bin\Debug\Lab1_HW1R.exe.config
-C:\Users\Astonix\source\repos\Lab1_HW1R\Lab1_HW1R\bin\Debug\Lab1_HW1R.exe
-C:\Users\Astonix\source\repos\Lab1_HW1R\Lab1_HW1R\bin\Debug\Lab1_HW1R.pdb
-C:\Users\Astonix\source\repos\Lab1_HW1R\Lab1_HW1R\obj\Debug\Lab1_HW1R.exe
-C:\Users\Astonix\source\repos\Lab1_HW1R\Lab1_HW1R\obj\Debug\Lab1_HW1R.pdb

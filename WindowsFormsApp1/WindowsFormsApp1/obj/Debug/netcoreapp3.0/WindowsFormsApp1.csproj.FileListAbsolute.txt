@@ -1,3 +1,0 @@
-C:\Users\Astonix\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.0\WindowsFormsApp1.csprojAssemblyReference.cache
-C:\Users\Astonix\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.0\WindowsFormsApp1.AssemblyInfoInputs.cache
-C:\Users\Astonix\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.0\WindowsFormsApp1.AssemblyInfo.cs
