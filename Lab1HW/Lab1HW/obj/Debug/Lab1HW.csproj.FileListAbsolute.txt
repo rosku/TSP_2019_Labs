@@ -1,0 +1,9 @@
+C:\Users\Astonix\source\repos\Lab1HW\Lab1HW\bin\Debug\Lab1HW.exe.config
+C:\Users\Astonix\source\repos\Lab1HW\Lab1HW\bin\Debug\Lab1HW.exe
+C:\Users\Astonix\source\repos\Lab1HW\Lab1HW\bin\Debug\Lab1HW.pdb
+C:\Users\Astonix\source\repos\Lab1HW\Lab1HW\obj\Debug\Lab1HW.csprojAssemblyReference.cache
+C:\Users\Astonix\source\repos\Lab1HW\Lab1HW\obj\Debug\Lab1HW.Form1.resources
+C:\Users\Astonix\source\repos\Lab1HW\Lab1HW\obj\Debug\Lab1HW.Properties.Resources.resources
+C:\Users\Astonix\source\repos\Lab1HW\Lab1HW\obj\Debug\Lab1HW.csproj.GenerateResource.cache
+C:\Users\Astonix\source\repos\Lab1HW\Lab1HW\obj\Debug\Lab1HW.exe
+C:\Users\Astonix\source\repos\Lab1HW\Lab1HW\obj\Debug\Lab1HW.pdb

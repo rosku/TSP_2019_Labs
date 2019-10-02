@@ -1,0 +1,9 @@
+C:\Users\Astonix\source\repos\Lab1_Homework2R\Lab1_Homework2R\obj\Debug\Lab1_Homework2R.csprojAssemblyReference.cache
+C:\Users\Astonix\source\repos\Lab1_Homework2R\Lab1_Homework2R\obj\Debug\Lab1_Homework2R.Form1.resources
+C:\Users\Astonix\source\repos\Lab1_Homework2R\Lab1_Homework2R\obj\Debug\Lab1_Homework2R.Properties.Resources.resources
+C:\Users\Astonix\source\repos\Lab1_Homework2R\Lab1_Homework2R\obj\Debug\Lab1_Homework2R.csproj.GenerateResource.cache
+C:\Users\Astonix\source\repos\Lab1_Homework2R\Lab1_Homework2R\bin\Debug\Lab1_Homework2R.exe.config
+C:\Users\Astonix\source\repos\Lab1_Homework2R\Lab1_Homework2R\bin\Debug\Lab1_Homework2R.exe
+C:\Users\Astonix\source\repos\Lab1_Homework2R\Lab1_Homework2R\bin\Debug\Lab1_Homework2R.pdb
+C:\Users\Astonix\source\repos\Lab1_Homework2R\Lab1_Homework2R\obj\Debug\Lab1_Homework2R.exe
+C:\Users\Astonix\source\repos\Lab1_Homework2R\Lab1_Homework2R\obj\Debug\Lab1_Homework2R.pdb
