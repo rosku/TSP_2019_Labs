@@ -1,0 +1,10 @@
+C:\Users\Astonix\source\repos\Lab3\Lab3_homework6\Lab3_homework6\obj\Debug\Lab3_homework6.Form1.resources
+C:\Users\Astonix\source\repos\Lab3\Lab3_homework6\Lab3_homework6\obj\Debug\Lab3_homework6.Properties.Resources.resources
+C:\Users\Astonix\source\repos\Lab3\Lab3_homework6\Lab3_homework6\obj\Debug\Lab3_homework6.csproj.GenerateResource.cache
+C:\Users\Astonix\source\repos\Lab3\Lab3_homework6\Lab3_homework6\bin\Debug\Lab3_homework6.exe.config
+C:\Users\Astonix\source\repos\Lab3\Lab3_homework6\Lab3_homework6\bin\Debug\Lab3_homework6.exe
+C:\Users\Astonix\source\repos\Lab3\Lab3_homework6\Lab3_homework6\bin\Debug\Lab3_homework6.pdb
+C:\Users\Astonix\source\repos\Lab3\Lab3_homework6\Lab3_homework6\obj\Debug\Lab3_homework6.Form2.resources
+C:\Users\Astonix\source\repos\Lab3\Lab3_homework6\Lab3_homework6\obj\Debug\Lab3_homework6.exe
+C:\Users\Astonix\source\repos\Lab3\Lab3_homework6\Lab3_homework6\obj\Debug\Lab3_homework6.pdb
+C:\Users\Astonix\source\repos\Lab3\Lab3_homework6\Lab3_homework6\obj\Debug\Lab3_homework6.csprojAssemblyReference.cache

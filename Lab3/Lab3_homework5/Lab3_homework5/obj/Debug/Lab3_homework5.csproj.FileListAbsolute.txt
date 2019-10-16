@@ -1,0 +1,8 @@
+C:\Users\Astonix\source\repos\Lab3\Lab3_homework5\Lab3_homework5\bin\Debug\Lab3_homework5.exe.config
+C:\Users\Astonix\source\repos\Lab3\Lab3_homework5\Lab3_homework5\bin\Debug\Lab3_homework5.exe
+C:\Users\Astonix\source\repos\Lab3\Lab3_homework5\Lab3_homework5\bin\Debug\Lab3_homework5.pdb
+C:\Users\Astonix\source\repos\Lab3\Lab3_homework5\Lab3_homework5\obj\Debug\Lab3_homework5.Form1.resources
+C:\Users\Astonix\source\repos\Lab3\Lab3_homework5\Lab3_homework5\obj\Debug\Lab3_homework5.Properties.Resources.resources
+C:\Users\Astonix\source\repos\Lab3\Lab3_homework5\Lab3_homework5\obj\Debug\Lab3_homework5.csproj.GenerateResource.cache
+C:\Users\Astonix\source\repos\Lab3\Lab3_homework5\Lab3_homework5\obj\Debug\Lab3_homework5.exe
+C:\Users\Astonix\source\repos\Lab3\Lab3_homework5\Lab3_homework5\obj\Debug\Lab3_homework5.pdb
