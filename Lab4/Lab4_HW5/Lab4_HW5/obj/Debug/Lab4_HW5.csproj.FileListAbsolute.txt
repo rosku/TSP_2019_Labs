@@ -1,0 +1,14 @@
+C:\Users\Astonix\source\repos\Lab4\Lab4_HW5\Lab4_HW5\obj\Debug\Lab4_HW5.csprojAssemblyReference.cache
+C:\Users\Astonix\source\repos\Lab4\Lab4_HW5\Lab4_HW5\obj\Debug\Interop.WMPLib.dll
+C:\Users\Astonix\source\repos\Lab4\Lab4_HW5\Lab4_HW5\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Astonix\source\repos\Lab4\Lab4_HW5\Lab4_HW5\obj\Debug\Lab4_HW5.csproj.ResolveComReference.cache
+C:\Users\Astonix\source\repos\Lab4\Lab4_HW5\Lab4_HW5\obj\Debug\Lab4_HW5.Form1.resources
+C:\Users\Astonix\source\repos\Lab4\Lab4_HW5\Lab4_HW5\obj\Debug\Lab4_HW5.Properties.Resources.resources
+C:\Users\Astonix\source\repos\Lab4\Lab4_HW5\Lab4_HW5\obj\Debug\Lab4_HW5.csproj.GenerateResource.cache
+C:\Users\Astonix\source\repos\Lab4\Lab4_HW5\Lab4_HW5\bin\Debug\Lab4_HW5.exe.config
+C:\Users\Astonix\source\repos\Lab4\Lab4_HW5\Lab4_HW5\bin\Debug\Lab4_HW5.exe
+C:\Users\Astonix\source\repos\Lab4\Lab4_HW5\Lab4_HW5\bin\Debug\Lab4_HW5.pdb
+C:\Users\Astonix\source\repos\Lab4\Lab4_HW5\Lab4_HW5\bin\Debug\Interop.WMPLib.dll
+C:\Users\Astonix\source\repos\Lab4\Lab4_HW5\Lab4_HW5\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Astonix\source\repos\Lab4\Lab4_HW5\Lab4_HW5\obj\Debug\Lab4_HW5.exe
+C:\Users\Astonix\source\repos\Lab4\Lab4_HW5\Lab4_HW5\obj\Debug\Lab4_HW5.pdb

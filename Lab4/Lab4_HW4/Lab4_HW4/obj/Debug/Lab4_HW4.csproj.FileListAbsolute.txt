@@ -1,0 +1,9 @@
+C:\Users\Astonix\source\repos\Lab4\Lab4_HW4\Lab4_HW4\bin\Debug\Lab4_HW4.exe.config
+C:\Users\Astonix\source\repos\Lab4\Lab4_HW4\Lab4_HW4\bin\Debug\Lab4_HW4.exe
+C:\Users\Astonix\source\repos\Lab4\Lab4_HW4\Lab4_HW4\bin\Debug\Lab4_HW4.pdb
+C:\Users\Astonix\source\repos\Lab4\Lab4_HW4\Lab4_HW4\obj\Debug\Lab4_HW4.csprojAssemblyReference.cache
+C:\Users\Astonix\source\repos\Lab4\Lab4_HW4\Lab4_HW4\obj\Debug\Lab4_HW4.Form1.resources
+C:\Users\Astonix\source\repos\Lab4\Lab4_HW4\Lab4_HW4\obj\Debug\Lab4_HW4.Properties.Resources.resources
+C:\Users\Astonix\source\repos\Lab4\Lab4_HW4\Lab4_HW4\obj\Debug\Lab4_HW4.csproj.GenerateResource.cache
+C:\Users\Astonix\source\repos\Lab4\Lab4_HW4\Lab4_HW4\obj\Debug\Lab4_HW4.exe
+C:\Users\Astonix\source\repos\Lab4\Lab4_HW4\Lab4_HW4\obj\Debug\Lab4_HW4.pdb
