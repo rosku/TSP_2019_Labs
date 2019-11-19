@@ -1,0 +1,19 @@
+D:\za universiteta\TSP\Domashno6\Domashno6\ZdravenStatus\ZdravenStatus\obj\Debug\ZdravenStatus.csprojAssemblyReference.cache
+D:\za universiteta\TSP\Domashno6\Domashno6\ZdravenStatus\ZdravenStatus\obj\Debug\ZdravenStatus.Form1.resources
+D:\za universiteta\TSP\Domashno6\Domashno6\ZdravenStatus\ZdravenStatus\obj\Debug\ZdravenStatus.Properties.Resources.resources
+D:\za universiteta\TSP\Domashno6\Domashno6\ZdravenStatus\ZdravenStatus\obj\Debug\ZdravenStatus.csproj.GenerateResource.cache
+D:\za universiteta\TSP\Domashno6\Domashno6\ZdravenStatus\ZdravenStatus\obj\Debug\ZdravenStatus.csproj.CoreCompileInputs.cache
+D:\za universiteta\TSP\Domashno6\Domashno6\ZdravenStatus\ZdravenStatus\bin\Debug\ZdravenStatus.exe.config
+D:\za universiteta\TSP\Domashno6\Domashno6\ZdravenStatus\ZdravenStatus\bin\Debug\ZdravenStatus.exe
+D:\za universiteta\TSP\Domashno6\Domashno6\ZdravenStatus\ZdravenStatus\bin\Debug\ZdravenStatus.pdb
+D:\za universiteta\TSP\Domashno6\Domashno6\ZdravenStatus\ZdravenStatus\obj\Debug\ZdravenStatus.exe
+D:\za universiteta\TSP\Domashno6\Domashno6\ZdravenStatus\ZdravenStatus\obj\Debug\ZdravenStatus.pdb
+C:\Users\Astonix\Desktop\6\lab6\ZdravenStatus\ZdravenStatus\bin\Debug\ZdravenStatus.exe.config
+C:\Users\Astonix\Desktop\6\lab6\ZdravenStatus\ZdravenStatus\bin\Debug\ZdravenStatus.exe
+C:\Users\Astonix\Desktop\6\lab6\ZdravenStatus\ZdravenStatus\bin\Debug\ZdravenStatus.pdb
+C:\Users\Astonix\Desktop\6\lab6\ZdravenStatus\ZdravenStatus\obj\Debug\ZdravenStatus.csprojAssemblyReference.cache
+C:\Users\Astonix\Desktop\6\lab6\ZdravenStatus\ZdravenStatus\obj\Debug\ZdravenStatus.Form1.resources
+C:\Users\Astonix\Desktop\6\lab6\ZdravenStatus\ZdravenStatus\obj\Debug\ZdravenStatus.Properties.Resources.resources
+C:\Users\Astonix\Desktop\6\lab6\ZdravenStatus\ZdravenStatus\obj\Debug\ZdravenStatus.csproj.GenerateResource.cache
+C:\Users\Astonix\Desktop\6\lab6\ZdravenStatus\ZdravenStatus\obj\Debug\ZdravenStatus.exe
+C:\Users\Astonix\Desktop\6\lab6\ZdravenStatus\ZdravenStatus\obj\Debug\ZdravenStatus.pdb
