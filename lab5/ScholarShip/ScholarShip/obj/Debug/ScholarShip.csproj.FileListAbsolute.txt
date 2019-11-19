@@ -1,0 +1,11 @@
+D:\za universiteta\TSP\Domashno5\Domashno5\ScholarShip\ScholarShip\bin\Debug\ScholarShip.exe.config
+D:\za universiteta\TSP\Domashno5\Domashno5\ScholarShip\ScholarShip\bin\Debug\ScholarShip.exe
+D:\za universiteta\TSP\Domashno5\Domashno5\ScholarShip\ScholarShip\bin\Debug\ScholarShip.pdb
+D:\za universiteta\TSP\Domashno5\Domashno5\ScholarShip\ScholarShip\obj\Debug\ScholarShip.csprojAssemblyReference.cache
+D:\za universiteta\TSP\Domashno5\Domashno5\ScholarShip\ScholarShip\obj\Debug\ScholarShip.Properties.Resources.resources
+D:\za universiteta\TSP\Domashno5\Domashno5\ScholarShip\ScholarShip\obj\Debug\ScholarShip.ScholarShip.resources
+D:\za universiteta\TSP\Domashno5\Domashno5\ScholarShip\ScholarShip\obj\Debug\ScholarShip.csproj.GenerateResource.cache
+D:\za universiteta\TSP\Domashno5\Domashno5\ScholarShip\ScholarShip\obj\Debug\ScholarShip.csproj.CoreCompileInputs.cache
+D:\za universiteta\TSP\Domashno5\Domashno5\ScholarShip\ScholarShip\obj\Debug\ScholarShip.exe
+D:\za universiteta\TSP\Domashno5\Domashno5\ScholarShip\ScholarShip\obj\Debug\ScholarShip.pdb
+D:\za universiteta\TSP\Domashno5\Domashno5\ScholarShip\ScholarShip\obj\Debug\ScholarShip.Form1.resources

@@ -1,0 +1,11 @@
+D:\za universiteta\TSP\Domashno5\Domashno5\School\School\bin\Debug\School.exe.config
+D:\za universiteta\TSP\Domashno5\Domashno5\School\School\bin\Debug\School.exe
+D:\za universiteta\TSP\Domashno5\Domashno5\School\School\bin\Debug\School.pdb
+D:\za universiteta\TSP\Domashno5\Domashno5\School\School\obj\Debug\School.csprojAssemblyReference.cache
+D:\za universiteta\TSP\Domashno5\Domashno5\School\School\obj\Debug\School.Form1.resources
+D:\za universiteta\TSP\Domashno5\Domashno5\School\School\obj\Debug\School.Properties.Resources.resources
+D:\za universiteta\TSP\Domashno5\Domashno5\School\School\obj\Debug\School.csproj.GenerateResource.cache
+D:\za universiteta\TSP\Domashno5\Domashno5\School\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+D:\za universiteta\TSP\Domashno5\Domashno5\School\School\obj\Debug\School.exe
+D:\za universiteta\TSP\Domashno5\Domashno5\School\School\obj\Debug\School.pdb
+D:\za universiteta\TSP\Domashno5\Domashno5\School\School\obj\Debug\School.Stipnedii.resources

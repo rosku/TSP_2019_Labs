@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Zodiac\Zodiac\bin\Debug\Zodiac.exe.config
+C:\Users\User\source\repos\Zodiac\Zodiac\bin\Debug\Zodiac.exe
+C:\Users\User\source\repos\Zodiac\Zodiac\bin\Debug\Zodiac.pdb
+C:\Users\User\source\repos\Zodiac\Zodiac\obj\Debug\Zodiac.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Zodiac\Zodiac\obj\Debug\Zodiac.Form1.resources
+C:\Users\User\source\repos\Zodiac\Zodiac\obj\Debug\Zodiac.Properties.Resources.resources
+C:\Users\User\source\repos\Zodiac\Zodiac\obj\Debug\Zodiac.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Zodiac\Zodiac\obj\Debug\Zodiac.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Zodiac\Zodiac\obj\Debug\Zodiac.exe
+C:\Users\User\source\repos\Zodiac\Zodiac\obj\Debug\Zodiac.pdb

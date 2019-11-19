@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScholarShip", "ScholarShip\ScholarShip.csproj", "{FAA0E208-5FA0-4006-94E0-A092F1491899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAA0E208-5FA0-4006-94E0-A092F1491899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA0E208-5FA0-4006-94E0-A092F1491899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA0E208-5FA0-4006-94E0-A092F1491899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA0E208-5FA0-4006-94E0-A092F1491899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {878F1133-527D-418B-8240-A9C5E2443149}
+	EndGlobalSection
+EndGlobal
